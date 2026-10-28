@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Khalid 👋
 
-<!--
-**KhalidMohamed37/KhalidMohamed37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student who sits between engineering and design: I care about how things work and how they look.
 
-Here are some ideas to get you started:
+## What I do
+- 🎨 UI/UX design and front-end web development
+- 🌐 WordPress development (Local by Flywheel)
+- 🔌 Networking and IT support, working toward CCNA
+- 🧠 Thesis research: NLP sentiment analysis on Somali product reviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Building my personal portfolio site
+- Studying for CCNA 200-301
+
+## Let's connect
+[Portfolio](https://khalidmohamed37.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/khalid-mohamed-747925391/) · [Email]()
